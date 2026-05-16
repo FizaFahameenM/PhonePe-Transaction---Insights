@@ -1,0 +1,11 @@
+PROJECT SUMMARY PHONEPE TRANSACTION INSIGHTS
+The PhonePe Transaction Insights project focuses on analyzing digital payment transaction data to extract meaningful insights related to user behavior, transaction trends, and geographical performance. 
+The project uses the PhonePe Pulse dataset, which contains transaction, user, and insurance-related information across different states and districts of India.
+The main objective of this project is to transform raw JSON data into structured and meaningful information using Python libraries such as Pandas, Matplotlib, and Seaborn. 
+The project involves data extraction, cleaning, transformation, and exploratory data analysis (EDA) to identify transaction patterns, top-performing regions, user engagement trends, and category-wise payment distribution.
+The dataset was loaded from the PhonePe GitHub repository and analyzed to understand the growth of digital payments over time. 
+Various visualizations such as bar charts, pie charts, line graphs, and heatmaps were created to present the insights clearly and effectively.
+Key analyses include identifying states with the highest transaction volume, understanding quarterly transaction growth, analyzing different transaction categories, and examining regional trends. 
+The project also highlights how data-driven insights can support business decisions such as customer targeting, marketing optimization, fraud detection, and product development.
+This project helped in developing practical skills in data analysis, data visualization, JSON data handling, and storytelling using data. 
+It also demonstrates how analytical techniques can be applied to real-world financial and payment system datasets to generate actionable business insights.
